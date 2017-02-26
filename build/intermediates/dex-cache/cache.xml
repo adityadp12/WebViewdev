@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/webview-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d2ed0f8669376a93bcb7933b643658361be9441d">
+        <dex dex="/Users/mac/Downloads/webview-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_53e3346f9441cce2ee8b7d18d21d295f5855b2a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/webview-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d6a238999234243ec32baeed86b2334612788efc">
+        <dex dex="/Users/mac/Downloads/webview-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9d5fa7cb440dd1b4c17b036ca72b0b09a94b1ac4/classes.dex" />
+    </item>
+
+</items>
